@@ -30,16 +30,11 @@ The project utilizes the NYC Open Data 311 Service Requests database:
 ```
 NYC-Noise-Complaints-Analysis/
 │
+├── analysis_notebook.ipynb
 │
-├── notebooks/
-│   └── analysis_notebook.ipynb
+├── NYC_Noise_Complaints_Analysis_Presentation.pptx
 │
-├── presentation/
-│   ├── NYC_Noise_Complaints_Analysis_Presentation.pptx
-│   └── README.md
-│
-├── media/
-│   ├── final_meeting_recording.mp4
+├── final_meeting_recording.mp4
 │
 ├── README.md
 └── LICENSE
